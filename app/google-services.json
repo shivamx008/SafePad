@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917435890449",
+    "firebase_url": "https://safepadd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "safepadd",
+    "storage_bucket": "safepadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917435890449:android:72ebc1472b41fd05ab2ab0",
+        "android_client_info": {
+          "package_name": "com.example.stopnjot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917435890449-58v1id8meqsv1l0fql2rgfjsvv66ne9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYs8Q7x_aI9trillLP7bW6X46gIVoeGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917435890449-58v1id8meqsv1l0fql2rgfjsvv66ne9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
